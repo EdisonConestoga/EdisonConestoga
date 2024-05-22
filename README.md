@@ -69,5 +69,7 @@ My dedication to continuous learning stems from a passion for innovation and a c
 
 I'm definitely team dog.
 <p>
-  <img src="https://i.giphy.com/IhvYFmzVNHgCQ.webp" alt="Doggy dancing">
+    <img width="240px" src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/214542344_10158514847317252_3425669003211924198_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=chKwHRJthQcQ7kNvgHDyZlg&_nc_ht=scontent-ord5-1.xx&oh=00_AYC2_UXVWZHObdgJCMWcVHjcENYEb9FilznTkydnr02SUg&oe=6653E3D1" alt="Me and my dog just possing">
+  <img width="320px" src="https://i.giphy.com/IhvYFmzVNHgCQ.webp" alt="Doggy dancing">
+
 </p>
